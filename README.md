@@ -7,6 +7,9 @@ Usually you have a contract in which is defined that you share the balance with 
 The thing is that in the vendor's dashboard is only shown the total balance.\
 This simple chrome extension adds your team balance next to the total.
 
+# Chrome Installation
+go to 'manage extensions', activate developer mode toggle and click on 'load unpacked extension' then choose the repo folder
+
 # Firefox Installation
 write in your address bar `about:debugging` and go to 'this firefox' section, then click on 'Load Temporary Add-on...' so you can select your zip file
 
